@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "accounts",
+  "info": {
+    "singularName": "account",
+    "pluralName": "accounts",
+    "displayName": "account",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "AccountName": {
+      "type": "string"
+    },
+    "accountId": {
+      "type": "integer"
+    }
+  }
+}

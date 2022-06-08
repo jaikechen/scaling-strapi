@@ -1,0 +1,32 @@
+{
+  "name": "list",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "list",
+    "description": "Description of List plugin",
+    "kind": "plugin",
+    "displayName": "List"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.2",
+    "add": "^2.0.6",
+    "primeicons": "^5.0.0",
+    "primereact": "^8.1.1",
+    "react-redux": "^8.0.2",
+    "yarn": "^1.22.18"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "maintainers": [
+    {
+      "name": "A Strapi developer"
+    }
+  ],
+  "engines": {
+    "node": ">=12.x.x <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
