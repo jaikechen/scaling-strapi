@@ -1,4 +1,3 @@
-node_modules
 ############################
 # OS X
 ############################
@@ -94,6 +93,7 @@ pids
 logs
 results
 node_modules
+!/node_modules/@strapi/admin/server/services/passport/local-strategy.js
 .node_history
 
 ############################
