@@ -20,9 +20,6 @@
     },
     "age": {
       "type": "integer"
-    },
-    "accountId": {
-      "type": "integer"
     }
   }
 }

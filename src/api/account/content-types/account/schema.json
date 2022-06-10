@@ -15,7 +15,7 @@
     "AccountName": {
       "type": "string"
     },
-    "accountId": {
+    "aid": {
       "type": "integer"
     }
   }

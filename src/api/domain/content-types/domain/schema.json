@@ -14,7 +14,7 @@
     "domain": {
       "type": "string"
     },
-    "accountId": {
+    "aid": {
       "type": "integer"
     }
   }
