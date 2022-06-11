@@ -15,6 +15,18 @@
     "AccountName": {
       "type": "string"
     },
+    "Domain": {
+      "type": "string"
+    },
+    "YmkToken": {
+      "type": "string"
+    },
+    "MeToken": {
+      "type": "string"
+    },
+    "OwnerEmail": {
+      "type": "string"
+    },
     "aid": {
       "type": "integer"
     }

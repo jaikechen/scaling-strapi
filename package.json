@@ -9,9 +9,8 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
   "dependencies": {
-    "@_sh/strapi-plugin-ckeditor": "^1.1.0",
+    "@notum-cz/strapi-plugin-content-versioning": "^0.4.3",
     "@strapi/plugin-i18n": "4.1.12",
     "@strapi/plugin-users-permissions": "4.1.12",
     "@strapi/strapi": "4.1.12",
