@@ -28,7 +28,6 @@ const Editor = ({ onChange, name, value }) => {
       data: editorData,
       onReady: () => {
         ejInstance.current = editor;
-        document.querySelector('[data-tool="image"]').remove()
       },
       onChange: async () => {
         let content = await ejInstance.current.saver.save();
